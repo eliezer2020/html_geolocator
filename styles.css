@@ -1,0 +1,22 @@
+#locationText {
+  color: red;
+  font-weight: 600;
+}
+
+legend {
+  color: black;
+  font-weight: bold;
+  padding: 5px 5px 5px 5px;
+}
+
+fieldset {
+  padding: 5px 5px 5px 5px;
+}
+
+h3 {
+  text-align: center;
+  border: 2px solid blue;
+  width: 60%;
+  margin: auto;
+  background-color:cadetblue;
+}
